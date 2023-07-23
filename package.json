@@ -1,0 +1,33 @@
+{
+  "name": "crm",
+  "version": "1.0.0",
+  "description": "CRM Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/I-m-devAmit/crm.git"
+  },
+  "author": "Amit Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/I-m-devAmit/crm/issues"
+  },
+  "homepage": "https://github.com/I-m-devAmit/crm#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "joi": "^17.9.2",
+    "mongoose": "^7.4.0",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/node": "^7.22.6",
+    "@babel/preset-env": "^7.22.9"
+  }
+}
